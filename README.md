@@ -1,6 +1,6 @@
 ### Hey 👋
 
-💬 Im a german vocational school teacher with a master's degree in Computer Science.
+💬 I'm a german vocational school teacher with a master's degree in Computer Science.
 
 💬 I worked serveral years for different companies with varying tasks 
  (from full-stack development to cyber-security).
