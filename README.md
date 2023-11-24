@@ -2,11 +2,13 @@
 
 💬 I'm a german vocational school teacher with a master's degree in Computer Science.
 
-💬 I worked serveral years for different companies with varying tasks 
+💬 I have worked for several years for various companies in different areas.
 
-💬 Also I'm a certified Cisco-DevNet-Instructor and also PSM certified.
+💬 Additionally, I hold a Cisco DevNet Instructor certification and am PSM certified.
 
-💬 For more informations visit my website: www.joshua-schumacher.dev
+💬  I am always interested in collaborating on new projects :).
+    In my repositories, you will find either solutions to individual scripts I have written or smaller school projects. 
+    If you have any questions about them, feel free to reach out to me..
 
-📫 If you want to come in contact: write me an email :)
+📫 If you would like to get in touch with me, feel free to contact me via email.
 
