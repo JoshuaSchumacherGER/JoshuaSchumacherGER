@@ -8,7 +8,6 @@
 
 💬  I am always interested in collaborating on new projects :).
     In my repositories, you will find either solutions to individual scripts I have written or smaller school projects. 
-    If you have any questions about them, feel free to reach out to me..
 
 📫 If you would like to get in touch with me, feel free to contact me via email.
 
